@@ -4,26 +4,26 @@
 			<style>
 				@font-face {
 					font-family: fonte-terminal;
-					src: url("font/Modeseven-L3n5.ttf");
+					src: url("Modeseven-L3n5.ttf");
 				}
 
 				.css-typing p {
 					color: #0F8029;
 					border-right: .15em solid #0F8029;
 					font-family: fonte-terminal;
-					font-size: 2em;
+					font-size: 1.5em;
 					white-space: nowrap;
 					overflow: hidden;
 				}
 
 				.css-typing p:nth-child(1) {
-					width: 25em;
+					width: 18em;
 					animation: type 4s steps(40, end);
 					animation-fill-mode: forwards;
 				}
 
 				.css-typing p:nth-child(2) {
-					width: 48.2em;
+					width: 35em;
 					opacity: 0;
 					animation: type2 8s steps(40, end);
 					animation-delay: 4.5s;
@@ -31,7 +31,7 @@
 				}
 
 				.css-typing p:nth-child(3) {
-					width: 46.4em;
+					width: 36em;
 					opacity: 0;
 					animation: type2 7.5s steps(40, end);
 					animation-delay: 13s;
@@ -39,7 +39,7 @@
 				}
 
 				.css-typing p:nth-child(4) {
-					width: 20em;
+					width: 13.5em;
 					opacity: 0;
 					animation: type3 3s steps(40, end), blink .5s step-end infinite alternate;
 					animation-delay: 21s;
