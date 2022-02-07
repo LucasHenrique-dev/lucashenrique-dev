@@ -48,7 +48,9 @@
 </details>
 <details>
     <summary>✅ Recent GitHub Activity</summary>
-    
+    <div>
+    <img src="https://pacific-thicket-01737.herokuapp.com/graph?username=lucashenrique-dev&theme=gotham"/>
+  </div>
 </details>
 
 <!--
