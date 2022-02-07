@@ -4,7 +4,7 @@
 			<style>
 				@font-face {
 					font-family: fonte-terminal;
-					src: url("Modeseven-L3n5.ttf");
+					src: url("font/Modeseven-L3n5.ttf");
 				}
 
 				.css-typing p {
