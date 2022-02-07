@@ -8,7 +8,7 @@
 - 🎯 I'm focused on developing my skills and learning new things
 - ⚡ Fun fact: I'm an peculiar programmer who programming whitout coffee
 ## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasHenrique-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasHenrique-dev&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## My Skills
 <details>
     <summary>📚 Programming Languages</summary>
@@ -42,15 +42,18 @@
   <summary>📊 GitHub Profile Stats</summary>
   <div>
     <a href="https://github.com/lucashenrique-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique-dev&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique-dev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique-dev&layout=compact&langs_count=7&theme=gotham" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+    </a>
   </div>
 </details>
 <details>
-    <summary>✅ Recent GitHub Activity</summary>
+    <summary>📈 Recent GitHub Activity</summary>
     <div>
-    <img src="https://pacific-thicket-01737.herokuapp.com/graph?username=lucashenrique-dev&theme=gotham"/>
-  </div>
+        <a href="https://github.com/lucashenrique-dev">
+        <img src="https://pacific-thicket-01737.herokuapp.com/graph?username=lucashenrique-dev&theme=gotham"/>
+        </a>
+    </div>
 </details>
 
 <!--
