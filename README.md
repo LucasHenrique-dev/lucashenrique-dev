@@ -2,7 +2,7 @@
 <img src="presentation.svg" width="800" height="200" alt="Presentation">
 
 ## About me
-- 👀 I'm interested in AI and RV
+- 👀 I'm interested in Artificial Intelligence and Virtual Reality
 - 💻 Most of my projects are available on [Github](https://github.com/LucasHenrique-dev?tab=repositories)
 - 🌱 I’m currently learning about back-end technologies
 - 🎯 I'm focused on developing my skills and learning new things
