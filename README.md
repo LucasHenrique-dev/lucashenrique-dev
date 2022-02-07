@@ -1,7 +1,7 @@
-## Hi, I'm Lucas Henrique 👋
+# Hi, I'm Lucas Henrique 👋
 <img src="presentation.svg" width="800" height="200" alt="Presentation">
 
-## Aboout me
+## About me
 - 👀 I'm interested in AI and RV
 - 💻 Most of my projects are available on [Github](https://github.com/LucasHenrique-dev?tab=repositories)
 - 🌱 I’m currently learning about back-end technologies
