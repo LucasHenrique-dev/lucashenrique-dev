@@ -7,13 +7,13 @@
 					color: #0F8029;
 					border-right: .15em solid #0F8029;
 					font-family: font-family: 'Anonymous Pro', monospace;
-					font-size: 2em;
+					font-size: 1em;
 					white-space: nowrap;
 					overflow: hidden;
 				}
 
 				.css-typing p:nth-child(1) {
-					width: 25em;
+					width: 20em;
 					animation: type 4s steps(40, end);
 					animation-fill-mode: forwards;
 				}
