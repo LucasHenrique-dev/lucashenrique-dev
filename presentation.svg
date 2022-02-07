@@ -19,7 +19,7 @@
 				}
 
 				.css-typing p:nth-child(2) {
-					width: 37.5em;
+					width: 36.5em;
 					opacity: 0;
 					animation: type2 8s steps(40, end);
 					animation-delay: 4.5s;
