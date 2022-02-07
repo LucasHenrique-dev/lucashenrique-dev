@@ -2,15 +2,11 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@font-face {
-					font-family: fonte-terminal;
-					src: url("font/Modeseven-L3n5.ttf");
-				}
 
 				.css-typing p {
 					color: #0F8029;
 					border-right: .15em solid #0F8029;
-					font-family: fonte-terminal;
+					font-family: font-family: 'Anonymous Pro', monospace;
 					font-size: 2em;
 					white-space: nowrap;
 					overflow: hidden;
