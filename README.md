@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas Henrique 👋
-<img src="presentation.svg" width="800" height="400" alt="Presentation">
+<img src="presentation.svg" width="800" height="200" alt="Presentation">
 
 ## Aboout me
 - 👀 I'm interested in AI and RV
