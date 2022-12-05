@@ -38,23 +38,21 @@
 </details>
 
 ## Github Stats
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
+  📊 GitHub Profile Stats</summary>
   <div>
     <a href="https://github.com/lucashenrique-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique-dev&layout=compact&langs_count=7&theme=gotham" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique-dev&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=gotham" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
     </a>
   </div>
-</details>
-<details>
+<!-- <details>
     <summary>📈 Recent GitHub Activity</summary>
     <div>
         <a href="https://github.com/lucashenrique-dev">
         <img src="https://pacific-thicket-01737.herokuapp.com/graph?username=lucashenrique-dev&theme=gotham"/>
         </a>
     </div>
-</details>
+</details> -->
 
 ## Contacts
 <p align="center">
