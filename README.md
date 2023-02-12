@@ -45,14 +45,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
     </a>
   </div>
-<!-- <details>
+<details>
     <summary>📈 Recent GitHub Activity</summary>
     <div>
-        <a href="https://github.com/lucashenrique-dev">
-        <img src="https://pacific-thicket-01737.herokuapp.com/graph?username=lucashenrique-dev&theme=gotham"/>
-        </a>
+        
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasHenrique-dev&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)  
     </div>
-</details> -->
+</details>
 
 ## Contacts
 <p align="center">
