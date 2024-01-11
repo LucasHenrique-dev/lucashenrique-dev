@@ -19,6 +19,7 @@
     <a href="https://discord.com/users/379762938019446785">
         <img height="50" src="images/discord_icon.svg" />
     </a>
+    <br/>
     <img src="metrics.plugin.fortune.svg" alt="Fortune" width="400">
 </p>
 
