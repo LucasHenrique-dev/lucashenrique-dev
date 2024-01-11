@@ -1,27 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient"/>
 </p>
 
-<!--
+<!-- Tamanho: width="850" -->
 <p align="center">
-  <img width="850" src="https://i.pinimg.com/originals/8d/b7/46/8db746ea0f28bdd22eae8b3ee10ac16a.gif"/>
+  <img src="images/banner_cyberpunk.gif" alt="Welcome!" /> 
 </p>
--->
-## <p align="center"> Grab a cup of code! Excited to connect and chat about tech. 💬<img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="30" height="30" /> </p>
+
+## <p align="center"> Grab a cup of code! Excited to connect and chat about tech. 💬<img align="top" src="images/hot_beverage.png" alt="Hot Beverage" width="30" height="30" /> </p>
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/lucashenrique-santos/">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+        <img height="50" src="images/linkedin_icon.svg" />
     </a>
     <a href="mailto:lucas.hneto@hotmail.com">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+        <img height="50" src="images/gmail_icon.svg" />
     </a>
-    <a href="discord">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <a href="https://discord.com/users/379762938019446785">
+        <img height="50" src="images/discord_icon.svg" />
     </a>
+    <img src="metrics.plugin.fortune.svg" alt="Fortune" width="400">
 </p>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50" /> A Little Bit About Me and My Interests
+# <img src="images/man_technologist.png" alt="Man Technologist" width="50" height="50" /> A Little Bit About Me and My Interests
 
 ```yaml
 
@@ -50,6 +51,15 @@ technical_background:
 hobbies: ["Gaming", "Cinema", "Animation", "Geek"]
 
 ```
+
+# 📊<img src="images/rocket.png" alt="Rocket" width="25" height="25" /> Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Github Metrics" width="400">
+  <img src="metrics.plugin.achievements.svg" alt="Achievements" width="400">
+  <img src="metrics.plugin.habits.facts.svg" alt="Habits Facts" width="400">
+  <img src="metrics.plugin.languages.details.svg" alt="Languages Details" width="400">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
