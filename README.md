@@ -57,7 +57,9 @@ hobbies: ["Gaming", "Cinema", "Animation", "Geek"]
 
 <p align="center">
   <img src="github-metrics.svg" alt="Github Metrics" width="400">
-  <img src="metrics.plugin.achievements.svg" alt="Achievements" width="400">
+  <br/>
+  <img src="metrics.plugin.achievements.svg" alt="Achievements" width="800">
+  <br/>
   <img src="metrics.plugin.habits.facts.svg" alt="Habits Facts" width="400">
   <img src="metrics.plugin.languages.details.svg" alt="Languages Details" width="400">
 </p>
